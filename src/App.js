@@ -15,12 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Hello world
+         test
         </a>
       </header>
     </div>
-  );]
-  
+  );
 }
 
 export default App;
